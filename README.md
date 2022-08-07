@@ -7,6 +7,7 @@ My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chas
 🍜 Responsive Layout of a Pho Restaurant <br /> 
 
 ## Learning Goals
+- Become more proficient in JavaScript <br /> 
 - Become more proficient in React <br /> 
 - Explore CSS frameworks (Sass & Tailwind) <br />
 
