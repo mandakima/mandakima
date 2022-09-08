@@ -3,8 +3,9 @@ My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandakima&layout=compact&count_private=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ## Current Projects
+🐝 Beela homepage <br /> 
 🎨 My portfolio layout <br />
-🍜 Responsive Layout of a Pho Restaurant <br /> 
+
 
 ## Learning Goals
 - Become more proficient in JavaScript <br /> 
