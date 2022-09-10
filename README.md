@@ -4,7 +4,7 @@ My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chas
 <br />
 ## Current Projects
 🐝 Beela homepage <br /> 
-🎨 My portfolio layout <br />
+🎨 A new portfolio layout <br />
 
 
 ## Learning Goals
