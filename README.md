@@ -4,9 +4,9 @@ My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chas
 
 ## Current Projects for 2022
 🐝 Beela homepage <br /> 
-~~🎨 A new portfolio layout~~<br />
+~~🎨 A new portfolio layout (v.2)~~<br />
 
-## Learning Goals
+## Learning Goals for 2022
 - Become more proficient in JavaScript <br /> 
 - Become more proficient in React <br /> 
 - Explore CSS frameworks (Sass & Tailwind) <br />
