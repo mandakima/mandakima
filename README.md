@@ -1,11 +1,10 @@
 ## Hey there!
-My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chase my dream as a UI Developer. I completed my UX Design through Designlab and am currently learning web development through Skillspire. <br /><br />
+My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chase my dream as a UI Developer. I completed my UX Design studies through Designlab and recently completed my web development bootcamp through Skillspire! <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandakima&layout=compact&count_private=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-## Current Projects
-🐝 Beela homepage <br /> 
-🎨 A new portfolio layout <br />
 
+## Current Projects for 2022
+🐝 Beela homepage <br /> 
+~~🎨 A new portfolio layout~~<br />
 
 ## Learning Goals
 - Become more proficient in JavaScript <br /> 
