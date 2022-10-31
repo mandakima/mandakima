@@ -6,7 +6,7 @@ Currently, I'm a Developer Apprentice at Tech Fleet to get more hands on experie
 
 ## Current Projects
 🐝 Beela Website <br /> 
-👜 E-commerce page for a small business (utilizing Wordpress) <br />
+🎤 Landing Page for a Musician <br />
 🎨 A new portfolio layout (v.3) (utilizing React) <br />
 ~~🎨 A new portfolio layout (v.2)~~<br />
 
