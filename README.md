@@ -1,7 +1,7 @@
 ## Hey there!
 My name is Amanda, and I'm from Washington! I'm pivoting from accounting to chase my dream as a UI Developer. I completed my UX Design studies through Designlab and recently completed my web development bootcamp through Skillspire! 
 
-Currently, I'm a Developer at a local design/marketing agency. <br /><br />
+Recently laid off at a local design/marketing agency, so I'm looking for work! <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandakima&layout=compact&count_private=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
